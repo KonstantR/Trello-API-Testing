@@ -41,3 +41,6 @@ Never commit a real API key or token to a public repository. Use your own creden
 ## Project purpose
 
 This is a learning/portfolio project created to practice API testing with Postman. It demonstrates hands-on familiarity with request methods, variables, response checks, and API resource workflows; it is not presented as professional work experience.
+## Newman Test Report
+
+![Newman Test Report](Postman%20%2B%20Newman_Report.png)
